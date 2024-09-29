@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Other/Projects/OpenGL101",
+  "command": "C:\\Other\\Tools\\w64devkit\\bin\\gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp  -o CMakeFiles\\glad.dir\\glad\\src\\glad.c.obj -c C:\\Other\\Projects\\OpenGL101\\glad\\src\\glad.c",
+  "file": "C:/Other/Projects/OpenGL101/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Other/Projects/OpenGL101",
+  "command": "C:\\Other\\Tools\\w64devkit\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Other\\Projects\\OpenGL101\\main.c",
+  "file": "C:/Other/Projects/OpenGL101/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/Other/Projects/OpenGL101",
+  "command": "C:\\Other\\Tools\\w64devkit\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -o CMakeFiles\\main.dir\\src\\shader_utils.c.obj -c C:\\Other\\Projects\\OpenGL101\\src\\shader_utils.c",
+  "file": "C:/Other/Projects/OpenGL101/src/shader_utils.c",
+  "output": "CMakeFiles/main.dir/src/shader_utils.c.obj"
+},
+{
+  "directory": "C:/Other/Projects/OpenGL101",
+  "command": "C:\\Other\\Tools\\w64devkit\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -o CMakeFiles\\main.dir\\src\\vertex_triangle_shapes.c.obj -c C:\\Other\\Projects\\OpenGL101\\src\\vertex_triangle_shapes.c",
+  "file": "C:/Other/Projects/OpenGL101/src/vertex_triangle_shapes.c",
+  "output": "CMakeFiles/main.dir/src/vertex_triangle_shapes.c.obj"
+}
+]

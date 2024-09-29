@@ -1,0 +1,49 @@
+{
+  "Build": {
+    "build": [
+      {
+        "args": "-p build",
+        "command": "mkdir",
+        "working_dir": ""
+      },
+      {
+        "args": "-G \"MinGW Makefiles\" -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ .",
+        "command": "cmake",
+        "working_dir": ""
+      },
+      {
+        "args": "--build .",
+        "command": "cmake",
+        "working_dir": ""
+      }
+    ],
+    "build_types": [],
+    "clean": [
+      {
+        "args": "-R build",
+        "command": "rm",
+        "working_dir": ""
+      }
+    ],
+    "config": {
+      "clear_sys_env": false
+    },
+    "os": [
+      "windows"
+    ],
+    "output_parser": {
+      "config": {
+        "relative_file_paths": true
+      }
+    },
+    "run": [
+      {
+        "args": "",
+        "command": "main.exe",
+        "name": "Custom Executable",
+        "run_in_terminal": true,
+        "working_dir": ""
+      }
+    ]
+  }
+}

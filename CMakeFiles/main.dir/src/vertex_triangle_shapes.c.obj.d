@@ -1,0 +1,28 @@
+CMakeFiles/main.dir/src/vertex_triangle_shapes.c.obj: \
+ C:\Other\Projects\OpenGL101\src\vertex_triangle_shapes.c \
+ C:\Other\Projects\OpenGL101\src\vertex_triangle_shapes.h \
+ C:\Other\Projects\OpenGL101\src\objects.h \
+ C:/Other/Tools/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdbool.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/Other/Tools/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
+ C:/Other/Tools/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/limits.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/malloc.h \
+ C:/Other/Tools/w64devkit/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/errno.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/string.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/stdio.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Other/Tools/w64devkit/x86_64-w64-mingw32/include/sec_api/stdio_s.h
